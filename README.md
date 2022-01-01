@@ -1,7 +1,7 @@
 - 👋 Hi, I’m đẹc hiền khô
-- 👀 I’m interested in mii láo cá
-- 🌱 I’m currently learning cách yêu thương cô ấy nhiều hơn
-- 💞️ I’m looking to collaborate on ...
+- 👀 Tôi quan tâm đến mii láo cá
+- 🌱 Tôi đang học cách yêu thương cô ấy nhiều hơn
+- 💞️ Tôi muốn cộng tác với bạn bè cô ấy để hiểu cô ấy nhiều hơn
 - 📫 How to reach me ...
 
 <!---
